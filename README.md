@@ -19,5 +19,6 @@
 # Table
 
 | No | Name | email |
+|----|------|-------|
 | 1 | John Doe | john@gmail.com |
 
