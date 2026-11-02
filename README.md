@@ -27,4 +27,4 @@
 
 # Image
 
-[!Image](https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp)
+![Image](https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp)
